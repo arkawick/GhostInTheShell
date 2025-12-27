@@ -1,6 +1,6 @@
 import time, sys, itertools, os
 from AlipThreading import*
-from playsound import playsound
+from playsound3 import playsound
 from threading import Thread
 
 
